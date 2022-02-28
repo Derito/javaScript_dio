@@ -41,3 +41,6 @@ Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é ca
 partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto
 fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a
 maneira como nos referimos a ele.
+
+#### Forçando o Git
+git push --force origin master
