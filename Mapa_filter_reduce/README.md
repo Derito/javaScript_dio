@@ -46,9 +46,11 @@ Retorno 2: `undefined`
 `const frutas = ['maça fugi','maça verde', 'laranja', 'abacaxi'];
 frutas.filter((fruta)=> fruta.includes('maça'));`
 
+> Note: o valor do item pode receber qualquer nome, neste caso recebe o no me fruta.
 1. Valor de retorno;
 
 `retorno: ['maça fugi', 'maça verde'];`
 
+> Note: Apenas os elementos passados pelo filtro formam um novo array.
 #### Forçando o Git
 git push --force origin master
