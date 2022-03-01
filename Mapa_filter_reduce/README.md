@@ -79,5 +79,15 @@ array.reduce(callbackFn, initialValue);`
 
 > #### Exercício - 1. Some todos os números de um array 2. Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviada.
 
-### Forçando o Git
+## Dicas Uteis
+#### Forçando o Git
 git push --force origin master
+
+#### Forçando o uso do nodejs no vs code
+1. Instale o node;
+2. instale o vs code;
+3. confirme o node no Path
+setx Path "%PATH%;C:\Program Files\nodejs"
+4. Baixe a extensão .run do code runner no vscode;
+5. rode o seu codigo javascript por meio do comando
+ctrl + alt + n.
