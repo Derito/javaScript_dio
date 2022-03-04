@@ -1,0 +1,11 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.openDefaultSettings": true,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.foldingImportsByDefault": true,
+    "editor.guides.bracketPairs": true,
+    "npm.enableRunFromFolder": true,
+    "dependencyAnalyticsServer.trace.server": "verbose",
+    "debug.javascript.autoAttachFilter": "smart"
+}
